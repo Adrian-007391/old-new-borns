@@ -1,0 +1,14 @@
+@font-face{
+	font-family: Blank River;
+	src: url('../../../font/Blank\ River.ttf');
+}
+.Navbar{
+  text-align: center;
+  width: 100vw;
+  height: 10vh;
+  background-color: black;
+  color:aliceblue;
+  padding-top:3vh;
+  font-family:Blank River ; 
+  font-size: 30px;
+  }

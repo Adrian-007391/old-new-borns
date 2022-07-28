@@ -1,0 +1,9 @@
+.Bloqued{
+	background-color: black;
+	height: 100vh;
+	color: aliceblue;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-evenly;
+}
